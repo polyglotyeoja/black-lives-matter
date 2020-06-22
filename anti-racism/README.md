@@ -9,4 +9,7 @@
 ##### Articles:
 * [PBS’s Teaching Your Child About Black History Month](https://www.pbs.org/parents/thrive/teaching-your-child-about-black-history-month)
 ##### Social Media 
-* [The Conscious Kid (Instagram)](https://www.instagram.com/theconsciouskid/)
+* The Conscious Kid | [Instagram](https://www.instagram.com/theconsciouskid/)
+* Bree Newsome Bass | [Twitter](https://twitter.com/BreeNewsome)
+* Check Your Privilege | [Instagram](https://www.instagram.com/ckyourprivilege/)
+* Ebony Janice | [Instagram](https://www.instagram.com/ebonyjanice/)
