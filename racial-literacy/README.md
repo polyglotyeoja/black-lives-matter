@@ -1,5 +1,3 @@
-## These definitions originated from [The Conscious Kid](https://www.theconsciouskid.org/racial-literacy-key-terms)
-
 ## Ally          
 Describes someone who supports a group other than one's own (in terms of racial identity, gender, sexual orientation, etc.) Allies acknowledge disadvantage and oppression of other groups; take risks and supportive action on their behalf; commit to reducing their own complicity or collusion in oppression of those groups, and invest in strengthening their own knowledge and awareness of oppression (Center for Assessment and Policy Development; Racial Equity Tools, 2019). When thinking of the term “Ally”, Ta-Nehisi Coates states, "I think one has to even abandon the phrase 'ally' and understand that you are not helping someone in a particular struggle; the fight is yours." Roxane Gay adds: “We need people to stand up and take on the problems borne of oppression as their own, without remove or distance. We need people to do this even if they cannot fully understand what it's like to be oppressed for their race or ethnicity, gender, sexuality, ability, class, religion, or other marker of identity.”
 
@@ -56,3 +54,6 @@ White privilege refers to the unquestioned and unearned set of advantages, entit
 
 ## White Supremacy
 The preferential norms, laws, treatment, privilege, power, access and opportunities that benefit white people at the expense of cumulative and chronic outcomes for Black and Brown communities. It is infused in all aspects of our society which include our laws, history, education system, culture, and entire social fabric. 
+
+Sources:
+* [The Conscious Kid](https://www.theconsciouskid.org/racial-literacy-key-terms)
